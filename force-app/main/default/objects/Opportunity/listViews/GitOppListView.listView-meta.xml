@@ -11,7 +11,7 @@
     <filters>
         <field>OPPORTUNITY.AMOUNT</field>
         <operation>greaterThan</operation>
-        <value>300000</value>
+        <value>275000</value>
     </filters>
     <label>GitOppListView</label>
 </ListView>
