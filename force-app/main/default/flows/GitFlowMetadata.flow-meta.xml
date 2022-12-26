@@ -41,5 +41,5 @@
             <targetReference>GIT_Practice</targetReference>
         </connector>
     </start>
-    <status>False</status>
+    <status>Inactive</status>
 </Flow>
